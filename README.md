@@ -1,2 +1,2 @@
 # mi-primer-repositorio
-Mi primer repositorio en Githud.
+Hola, en este repositorio tendreis varios ejercicios de python realizados.
