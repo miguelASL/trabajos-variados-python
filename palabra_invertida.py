@@ -5,4 +5,4 @@ def reverse(text):
         reversed_text += text[text_len -i - 1]
     return reversed_text
 
-print(reverse("mamahuevos"))
+print(reverse("hola mundo"))
