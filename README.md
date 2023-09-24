@@ -1,2 +1,2 @@
-# mi-primer-repositorio
-Hola, en este repositorio tendreis varios ejercicios de python realizados.
+## Variadito
+En este repositorio estarán diversos codigo de python, ya sean ejercicios como pruebas.
